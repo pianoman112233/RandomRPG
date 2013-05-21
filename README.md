@@ -6,8 +6,8 @@ Making an RPG game
 
 Libraries
 =========
-LWJGL - http://www.lwjgl.org/
-Slick 2D - http://www.slick2d.org/
+LWJGL - http://www.lwjgl.org/<br>
+Slick 2D - http://www.slick2d.org<br>
 
 
 Notes
